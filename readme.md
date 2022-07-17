@@ -5,3 +5,4 @@
 ***Скачали проект в чистый `venv` в консоль вбили***
 ***`pip freeze -r requirements.txt`***
 ***и можете запускать тест `pytest --language=es test_items.py`)))***
+***или как то так `pytest --user_language=ru --browser_name=firefox`***
